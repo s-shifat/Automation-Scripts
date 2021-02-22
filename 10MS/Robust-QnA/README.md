@@ -16,7 +16,7 @@
 
   2. Now from the ribbon go to `Tools` > `Script editor`. This will open an editor in a new tab.
 
-  3. Delete what ever is written in the editor and paste the code from `robustQnA.gs` file.
+  3. Delete what ever is written in the editor and paste the code from [`robustQnA.gs`](https://github.com/s-shifat/Automation-Scripts/blob/main/10MS/Robust-QnA/robustQnA.gs) file.
 
   4. Now from the editor click the '+' icon beside `Libraries` (should be at the left).
 

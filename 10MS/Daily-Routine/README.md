@@ -4,7 +4,7 @@
 
 ### What will you need?
 
-  1. Four ***Google Slides*** file as templates. You can add *place holders* following this format: `{{PlaceHolder_Name}}`.
+  1. Four ***Google Slides*** files as templates. You can add *place holders* following this format: `{{PlaceHolder_Name}}`.
     Two of these are HSC story and poster templates and rest two are SSC story and poster.
 
   2. A ***Google Sheets*** file that has column names of the *place holders* you used in your template slide file. You will also need another sheet in the

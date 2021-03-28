@@ -15,7 +15,7 @@ const PHOTO_CONTAINING_COLUMN_NAME = ''; // Keep it empty if current sheet doesn
 
 // Editable Part Ends--------------------------------------------------------------------------------------
 
-// Don't Modify anything below this line~~
+// ~Don't Modify anything below this line~
 function onOpen(){
   let ui = SpreadsheetApp.getUi();
   ui

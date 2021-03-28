@@ -34,7 +34,7 @@
   After activating the library, you can do *two* things:
   
   1. To setup Output Folder you  can do any of the below:
-     * From the ribbon click on `Team Automation` > `Set Output Folder`. This will ask for a folder link, paste your folder link there and hit ok. This will create a sheet named `Outputs` if it does not exists. **OR**<br>
+     * From the ribbon click on `Team Automation` > `Set Output Folder`. This will ask for a folder link, paste your folder link there and hit ok. This will create a sheet named `Outputs` if it does not exists. <br>**OR**<br>
      * Paste your output folder link in `Cell B2` of `Outputs` sheet.
   
   2. The main interest of this project is creating the presentation. To do so,

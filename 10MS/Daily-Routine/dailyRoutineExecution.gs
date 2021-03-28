@@ -39,7 +39,8 @@ function onOpen(){
 
 function execute(){
   DailyRoutineshifat10MS.dailyRoutine(
-    SSC_STORY_ID,SSC_POSTER_ID,
+    SSC_STORY_ID,
+    SSC_POSTER_ID,
     HSC_STORY_ID,
     HSC_POSTER_ID,
     SPREAD_SHEET_ID,

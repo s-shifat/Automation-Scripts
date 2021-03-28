@@ -38,7 +38,7 @@
      * Paste your output folder link in `Cell B2` of `Outputs` sheet.
   
   2. The main interest of this project is creating the presentation. To do so,
-     * From the ribbon click on `Team Automation` > `Generate Thumbnail Slide`. This will ask for a presentation link, paste the **link of the google presentation file** that contatins the variables (the ones conatining {{}}) and click on OK.
+     * From the ribbon click on `Team Automation` > `Generate Thumbnail Slide`. This will ask for a presentation link, paste the **link of the google presentation file** that contatins the variables (the ones conatining *{{}}*) and click on OK.
      * That is pretty much it! After the execution has finished go to `Outputs` sheet, the latest row contains the newly processed output presentation sotred in your folder.
 
 ##### If you find/face any problem feel free to let me know.

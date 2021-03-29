@@ -14,7 +14,7 @@
   4. All set! Now just double-click the `SplitPDF.exe`. Once you enter the program it is dead simple, and very intuitive to use.
   5. After the execution, A folder named from your provided pdf file will be created and inside that folder you will find all the segments of your pdf.
 
-###### *Note: Here I told you to make a new folder. This is so that, you can easily use the same folder to convert other pdf files in future. IE: Say for example you have followed my above instructions and splitted `a.pdf`. Now you also want to split `b.pdf`, all you have to do is copy and paste the `b.pdf` to the same as `a.pdf`, in otherwords where the `SplitPDF.exe` also lives. Now just follow step-4!*
+###### *Note: Here I told you to make a new folder in step-3. This is so that, you can easily use the same folder to convert other pdf files in future. IE: Say for example you have followed my above instructions and splitted `a.pdf`. Now you also want to split `b.pdf`, all you have to do is copy and paste the `b.pdf` to the same as `a.pdf`, in otherwords where the `SplitPDF.exe` also lives. Now just follow step-4!*
 
 
 ##### If you find/face any problem feel free to let me know.

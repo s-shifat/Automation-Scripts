@@ -24,7 +24,7 @@
     The current <br> 
     **script id:** `1EpDLOyBvmjRtIlf6_7oygPVaYbxfGXsCvu4HycAiL2erQfF9AFa2cVYD` <br>
     Now click on **Look up**.  This should find the library.
-    From the drop down menu under *Version* select `9` or whichever is the latest.
+    From the drop down menu under *Version* select `14` or whichever is the latest.
     Keep the **Identifier** as it is. and click on *Add* button.
 
   6. Now hit `ctrl + s` from your keyboard. That's it!

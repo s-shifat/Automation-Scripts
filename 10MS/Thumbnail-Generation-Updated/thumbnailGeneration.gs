@@ -3,7 +3,7 @@
     #  Library Information ######################################################
     #  Library Name: ForDesignTeamGenerateThumbnails022                         #
     #  Script Id: 1EpDLOyBvmjRtIlf6_7oygPVaYbxfGXsCvu4HycAiL2erQfF9AFa2cVYD     #
-    #  Version: 9                                                               #
+    #  Version: 14                                                              #
     #  Author: Shams-E-Shifat                                                   #
     #  Email: sshifat022@gmail.com                                              #
     #############################################################################

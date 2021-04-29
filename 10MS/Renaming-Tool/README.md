@@ -41,7 +41,7 @@ folder-b
 └── ৮)ত্রিকোণমিতি পর্ব ৮-( গাণিতিক উদাহরণ ৮.৩ পর্ব ২).mp4
 
 ```
-As you can see all the file names map to its name source folder `folder-a`. In the `RenamingTool` app it this folder is represented as `Input Folder` and `folder-b` ie the folder that uses the name of `folder-a` is termed as `Output Folder`.
+As you can see all the file names map to its name source folder `folder-a`. In the `RenamingTool` app, this folder is represented as `Input Folder` and `folder-b` ie the folder that uses the name of `folder-a` is termed as `Output Folder`.
 Notice that there is also an extra file named `report.csv`, this file is autogenarated, will provide you which file name is mapped to which. If you don't want this file to be generated you can turn it of via the application gui.
 If you want to delete `folder-a` after execution, you all also tick that in the gui.
 

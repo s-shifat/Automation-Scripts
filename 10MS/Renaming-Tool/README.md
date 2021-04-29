@@ -55,5 +55,5 @@ Just make sure, you allow your browser to download `.exe` file.
 * Currently the tool can sort English and Bengali only.
 
 * Incase of Bengali file names. The file name should start with a `bangla number` followed by a `)` (similar to the tree above) then rest may conatain the file name.
-* If you find any bug feel free to contact me at s-shifat022@gmail.com
+* If you find any bug feel free to contact me at sshifat022@gmail.com
 

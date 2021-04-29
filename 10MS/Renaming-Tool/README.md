@@ -27,7 +27,7 @@ folder-b
 ```
 
 With help of `Renaming Tool` you can rename all the files of `folder-b` mapping to all the file names of `folder-a`.
-In this case: `file_10` will get the name of `১০)ত্রিকোণমিতি পর্ব  ১০.mp4`, `file_2` will have the name of `২)ত্রিকোণমিতি পর্ব  ২- (রেডিয়ান কোণ,প্রতিজ্ঞা ১,২,৩,৪).mp4` and so on. Thus after hitting the `Rename` button in `RenamingTool` app the contents of folder-b will become:
+In this case: `file_10` will get the name of `১০)ত্রিকোণমিতি পর্ব  ১০.mp4`, `file_2` will have the name of `২)ত্রিকোণমিতি পর্ব  ২- (রেডিয়ান কোণ,প্রতিজ্ঞা ১,২,৩,৪).mp4` and so on. Thus after hitting the `Rename` button in `RenamingTool` app the contents of `folder-b` will become:
 
 ```bash
 $ tree folder-b

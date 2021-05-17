@@ -12,6 +12,7 @@ This script can send an automated email fed by the *google form-owner* to the *g
 
 ### How to activate?
 You can Either follow the steps mentioned below or follow [this video tutorial](https://youtu.be/i7Bw1Acr7MQ)
+You have to follow these only **once!**
   1. Open the spreadsheet I mention earlier.
 
   2. Now from the ribbon go to `Tools` > `Script editor`. This will open an editor in a new tab.

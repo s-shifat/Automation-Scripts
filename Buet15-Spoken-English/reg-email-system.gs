@@ -15,10 +15,12 @@ const EMAIL_BODY_CONTAINING_DOC_LINK = 'paste-email-body-containing-doc-url';
 const EMAIL_SUBJECT = 'subject-of-email';
 const EMAIL_SENDER_NAME = "Email-sender-name";
 
+// Run this function only the first time.
 function runMe(){
   SpokenEnglishPlatform.submit('execute');
 }
 
+// No need to edit this function.
 function execute(){
   SpokenEnglishPlatform.SendEmail(
     SPREADSHEET_LINK,

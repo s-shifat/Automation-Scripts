@@ -27,7 +27,7 @@ folder-b
 ```
 
 With help of `Renaming Tool` you can rename all the files of `folder-b` mapping to all the file names of `folder-a`.
-In this case: `file_10` will get the name of `১০)ত্রিকোণমিতি পর্ব  ১০.mp4`, `file_2` will have the name of `২)ত্রিকোণমিতি পর্ব  ২- (রেডিয়ান কোণ,প্রতিজ্ঞা ১,২,৩,৪).mp4` and so on. Thus after hitting the `Rename` button in `RenamingTool` app the contents of folder-b will become:
+In this case: `file_10` will get the name of `১০)ত্রিকোণমিতি পর্ব  ১০.mp4`, `file_2` will have the name of `২)ত্রিকোণমিতি পর্ব  ২- (রেডিয়ান কোণ,প্রতিজ্ঞা ১,২,৩,৪).mp4` and so on. Thus after hitting the `Rename` button in `RenamingTool` app the contents of `folder-b` will become:
 
 ```bash
 $ tree folder-b
@@ -41,19 +41,19 @@ folder-b
 └── ৮)ত্রিকোণমিতি পর্ব ৮-( গাণিতিক উদাহরণ ৮.৩ পর্ব ২).mp4
 
 ```
-As you can see all the file names map to its name source folder `folder-a`. In the `RenamingTool` app it this folder is represented as `Input Folder` and `folder-b` ie the folder that uses the name of `folder-a` is termed as `Output Folder`.
+As you can see all the file names map to its name source folder `folder-a`. In the `RenamingTool` app, this folder is represented as `Input Folder` and `folder-b` ie the folder that uses the name of `folder-a` is termed as `Output Folder`.
 Notice that there is also an extra file named `report.csv`, this file is autogenarated, will provide you which file name is mapped to which. If you don't want this file to be generated you can turn it of via the application gui.
 If you want to delete `folder-a` after execution, you all also tick that in the gui.
 
 ### How to install?
 Installation process is super easy.<br>
-Here is the download link: [download ReanamingTool]()
+Just click on [`Setup.exe`](https://github.com/s-shifat/Automation-Scripts/blob/main/10MS/Renaming-Tool/Setup.exe) then click on the `Download` button.
 
-Just make sure, you allow your browser to download `.exe` file.
+*Just make sure, you allow your browser to download `.exe` file.*
 
 ##### Notes
 * Currently the tool can sort English and Bengali only.
 
 * Incase of Bengali file names. The file name should start with a `bangla number` followed by a `)` (similar to the tree above) then rest may conatain the file name.
+* If you find any bug feel free to contact me at sshifat022@gmail.com
 
-* Send feedbacks to: sshifat022@gmail.com

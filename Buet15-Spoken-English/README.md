@@ -11,7 +11,7 @@ This script can send an automated email fed by the *google form-owner* to the *g
   3. Optional: A ***Folder*** in your google drive to organize and maintain easily. If you use this folder then keep the files mentioned in 1. and 2. in this folder.
 
 ### How to activate?
-
+You can Either follow the steps mentioned below or follow [this video tutorial](https://youtu.be/i7Bw1Acr7MQ)
   1. Open the spreadsheet I mention earlier.
 
   2. Now from the ribbon go to `Tools` > `Script editor`. This will open an editor in a new tab.

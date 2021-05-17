@@ -24,7 +24,7 @@ This script can send an automated email fed by the *google form-owner* to the *g
     The current <br> 
     **script id:** `1PvbQZoE804UdpINDPeuTJeu-vrYFd7gzkZNnZCmsqGHgwECpzKh-aoZC` <br>
     Now click on **Look up**.  This should find the library.
-    From the drop down menu under *Version* select the **latest** (currently: 9).
+    From the drop down menu under *Version* select the **latest** (currently: 10).
     Keep the **Identifier** as it is. and click on *Add* button.
 
   6. Now hit `ctrl + s` from your keyboard. Thats it. (You can also save a project name if you want, not mendatory)

@@ -2,7 +2,7 @@
   Library Info.
   ------------------------------------------------------------------------
   Script Id: 1PvbQZoE804UdpINDPeuTJeu-vrYFd7gzkZNnZCmsqGHgwECpzKh-aoZC
-  Version: Latest (9)
+  Version: Latest (10)
   Author: Shams-E-Shifat
   Email: sshifat022@gmail.com
   ------------------------------------------------------------------------

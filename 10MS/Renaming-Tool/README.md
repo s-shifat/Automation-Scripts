@@ -47,7 +47,7 @@ If you want to delete `folder-a` after execution, you all also tick that in the 
 
 ### How to install?
 Installation process is super easy.<br>
-Just click on [`Setup.exe`](https://github.com/s-shifat/Automation-Scripts/blob/main/10MS/Renaming-Tool/Setup.exe) then click on the `Download` button.
+Just click on [`Setup.exe`](https://github.com/s-shifat/Automation-Scripts/blob/main/10MS/Renaming-Tool/dist/Setup.exe) then click on the `Download` button.
 
 *Just make sure, you allow your browser to download `.exe` file.*
 

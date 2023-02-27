@@ -5,7 +5,7 @@
 ### How to use?
 
   1. To use this executable, download the [`SplitPDF.exe`](https://github.com/s-shifat/Automation-Scripts/blob/main/10MS/Split-PDF/SplitPDF.exe) file.<br>
-      ###### watch out! As you're downloading an executable file, depending on your browser/os might block the download process, so please allow you're system to complete the download process so that you can use this program.
+      ###### watch out! As you're downloading an executable file, depending on your browser/os might block the download process, so please allow your system to complete the download process so that you can use this program.
 
   2. After downloading, move 'SplitPDF.exe' file to a fresh folder whichever place you are comfortable at.
 
